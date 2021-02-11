@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quote-generator/static/css/main.2e7f1ea9.chunk.css",
+    "main.js": "/quote-generator/static/js/main.87936135.chunk.js",
+    "main.js.map": "/quote-generator/static/js/main.87936135.chunk.js.map",
+    "runtime-main.js": "/quote-generator/static/js/runtime-main.fc58639b.js",
+    "runtime-main.js.map": "/quote-generator/static/js/runtime-main.fc58639b.js.map",
+    "static/js/2.4b50c4f6.chunk.js": "/quote-generator/static/js/2.4b50c4f6.chunk.js",
+    "static/js/2.4b50c4f6.chunk.js.map": "/quote-generator/static/js/2.4b50c4f6.chunk.js.map",
+    "static/js/3.645ea3e1.chunk.js": "/quote-generator/static/js/3.645ea3e1.chunk.js",
+    "static/js/3.645ea3e1.chunk.js.map": "/quote-generator/static/js/3.645ea3e1.chunk.js.map",
+    "index.html": "/quote-generator/index.html",
+    "static/css/main.2e7f1ea9.chunk.css.map": "/quote-generator/static/css/main.2e7f1ea9.chunk.css.map",
+    "static/js/2.4b50c4f6.chunk.js.LICENSE.txt": "/quote-generator/static/js/2.4b50c4f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc58639b.js",
+    "static/js/2.4b50c4f6.chunk.js",
+    "static/css/main.2e7f1ea9.chunk.css",
+    "static/js/main.87936135.chunk.js"
+  ]
+}
